@@ -1,0 +1,1 @@
+C:\src\MyGitRepository\MyConsoleAppForMyGitRepository\bin\Debug\MyConsoleAppForMyGitRepository.exe.config
