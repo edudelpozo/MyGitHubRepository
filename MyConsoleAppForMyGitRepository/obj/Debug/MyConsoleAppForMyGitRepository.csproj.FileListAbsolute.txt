@@ -1,1 +1,7 @@
 C:\src\MyGitRepository\MyConsoleAppForMyGitRepository\bin\Debug\MyConsoleAppForMyGitRepository.exe.config
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\bin\Debug\MyConsoleAppForMyGitRepository.exe.config
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\bin\Debug\MyConsoleAppForMyGitRepository.exe
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\bin\Debug\MyConsoleAppForMyGitRepository.pdb
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\obj\Debug\MyConsoleAppForMyGitRepository.csprojAssemblyReference.cache
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\obj\Debug\MyConsoleAppForMyGitRepository.exe
+C:\src\MyGitHubRepository\MyConsoleAppForMyGitRepository\obj\Debug\MyConsoleAppForMyGitRepository.pdb
